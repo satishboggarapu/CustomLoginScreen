@@ -1,0 +1,6 @@
+framework module Pods_CustomLoginScreenUITests {
+  umbrella header "Pods-CustomLoginScreenUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
